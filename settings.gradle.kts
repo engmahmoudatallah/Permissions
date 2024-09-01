@@ -20,6 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
+
 rootProject.name = "Permissions"
 include(":app")
  
